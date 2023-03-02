@@ -1,0 +1,7 @@
+{
+    "github.gitAuthentication": false,
+    "git.useIntegratedAskPass": true,
+    "git.allowNoVerifyCommit": false,
+    "git.alwaysSignOff": false,
+    "git.enabled": true
+}
